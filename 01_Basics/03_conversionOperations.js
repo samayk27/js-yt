@@ -25,6 +25,27 @@ console.log(isBoolean);
 // 1 = true, 0 = false
 // ""= false, "something/space"= true
 
+//*********************************OPERATIONS***********************************************
+
+let value =3
+let negValue =-value // prints -3
+
+let str1 = "hello"
+let str2 ="world"
+str3 = str1 + " " + str2
+
+console.log(str3);
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+ 2 +2 ); // prints 122 
+console.log(1+2+"2"); // prints 32
+
+
+
+
+
+
 
 
 
