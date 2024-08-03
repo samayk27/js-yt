@@ -26,3 +26,9 @@ const myFunction = function(){
 }
 
 //typeOf Null === Object
+
+//++++++++++++++++++++++++++++++++++++++++++
+
+//Stack Memory= Primitive Data Types
+//Heap Memory = Non Primitive Data Types
+
